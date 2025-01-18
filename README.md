@@ -6,6 +6,7 @@
 </div>
 
 
+
  > ℹ️ **NOTE:** Este é o repositório desenvolvido como parte da jornada do Bootcamp CAIXA – IA Generativa com Microsoft Copilot.
 
 
@@ -24,7 +25,6 @@ Com jogos interativos, vídeos educativos e assistentes virtuais, o FinanKids qu
    <div align="center">
   <img src="./Imagens/Logo_V4.png" alt="Descrição da imagem" width="600">
 </div>
-
 
 ## ✨ Objetivos do Projeto
 
@@ -66,10 +66,10 @@ Tudo isso enquanto se divertem e aprendem valores como responsabilidade, planeja
   <img src="./Imagens/Jogos_Interativos.png" alt="Imagem 1" width="200">
   <img src="./Imagens/Assistente_Virtual.png" alt="Imagem 2" width="200">
   <img src="./Imagens/Gamificação.png" alt="Imagem 3" width="200">
-  <img src="./Iamgens/Vídeos_Educativos.png" alt="Imagem 4" width="200">
+  <img src="./Imagens/Vídeos_Educativos.png" alt="Imagem 4" width="200">
 </div>
 
-## 👨‍💻 ~~Expert~~ Inicinate Entusiasta
+## 👨‍💻 ~~Expert~~ Iniciante Entusiasta
 
 <p>
     Cecília Martins de Almeida<br>
