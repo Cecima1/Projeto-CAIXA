@@ -60,7 +60,7 @@ Tudo isso enquanto se divertem e aprendem valores como responsabilidade, planeja
   
 -	Prototipagem de funcionalidades: Exemplos como [Jogos Interativos](https://github.com/Cecima1/Projeto-CAIXA/raw/main/Projeto_Final/2.1_Jogos_Interativos.pdf), [Vídeos Educativos](https://github.com/Cecima1/Projeto-CAIXA/raw/main/Projeto_Final/2.3_V%C3%ADdeo%20Educativo.mp4) e [Assistentes Virtuais](https://github.com/Cecima1/Projeto-CAIXA/raw/main/Projeto_Final/2.2_Assistentes_Virtuais.pdf), já desenhados para mostrar o potencial da plataforma.
 
--	[Página web fictícia:](https://github.com/Cecima1/Projeto-CAIXA/raw/main/Projeto_Final/3_P%C3%A1gina_Web_Final.html) Uma simulação do que seria a experiência do usuário ao acessar a plataforma, trazendo o conceito à vida
+-	[Página web fictícia:](https://cecima1.github.io/Projeto-CAIXA/Projeto_Final/3_P%C3%A1gina_Web_Final.html) Uma simulação do que seria a experiência do usuário ao acessar a plataforma, trazendo o conceito à vida
 
 <div style="display: flex; justify-content: space-around; align-items: center;">
   <img src="./Imagens/Jogos_Interativos.png" alt="Imagem 1" width="200">
