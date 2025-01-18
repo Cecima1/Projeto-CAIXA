@@ -9,7 +9,9 @@
  > ℹ️ **NOTE:** Este é o repositório desenvolvido como parte da jornada do Bootcamp CAIXA – IA Generativa com Microsoft Copilot.
 
 
-## Projeto Desenvolvido: FinanKids – Educação Financeira Divertida para Crianças
+## Projeto Desenvolvido: 
+
+## FinanKids – Educação Financeira Divertida para Crianças
 
 O FinanKids é uma ideia que nasceu com uma missão: revolucionar a forma como as crianças aprendem sobre dinheiro e finanças. 
 
@@ -36,7 +38,7 @@ Além de ensinar sobre dinheiro, o FinanKids quer fazer a diferença na vida das
 -	Conecta famílias no aprendizado, incentivando hábitos positivos juntos.
 -	Reduz desigualdades no acesso à educação financeira.
 -	Prepara os pequenos para tomar decisões financeiras conscientes no futuro.
--	
+  
 Tudo isso enquanto se divertem e aprendem valores como responsabilidade, planejamento e generosidade. 
 
 
@@ -60,6 +62,12 @@ Tudo isso enquanto se divertem e aprendem valores como responsabilidade, planeja
 
 -	[Página web fictícia:](https://github.com/Cecima1/Projeto-CAIXA/raw/main/Projeto_Final/3_P%C3%A1gina_Web_Final.html) Uma simulação do que seria a experiência do usuário ao acessar a plataforma, trazendo o conceito à vida
 
+<div style="display: flex; justify-content: space-around; align-items: center;">
+  <img src="./Imagens/Jogos_Interativos.png" alt="Imagem 1" width="200">
+  <img src="./Imagens/Assistente_Virtual.png" alt="Imagem 2" width="200">
+  <img src="./Imagens/Gamificação.png" alt="Imagem 3" width="200">
+  <img src="./Iamgens/Vídeos_Educativos.png" alt="Imagem 4" width="200">
+</div>
 
 ## 👨‍💻 ~~Expert~~ Inicinate Entusiasta
 
